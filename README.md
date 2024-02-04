@@ -12,5 +12,5 @@ You can also see me on\\
 &nbsp; [Web of Science](http://www.researcherid.com/rid/E-4205-2016)\
 &nbsp; [OrcID](https://orcid.org/0000-0002-5737-1393)\
 &nbsp; [InspireHEP](http://inspirehep.net/search?ln=en&p=find+au+lukacs%2Ca&of=hb&action_search=Search&sf=earliestdate&so=d)\
-&nbsp; [See my other website at the Wigner RCP](http://www.rmki.kfki.hu/~arpi/)\
+&nbsp; [See my other website at the Wigner RCP](http://www.rmki.kfki.hu/~arpi/)
 
