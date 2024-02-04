@@ -1,6 +1,4 @@
-
-
-![Arpad Lukacs](./arpi.jpg){:width="50%" .image-left}
+![Arpad Lukacs](./arpi.jpg){:width="50%" style="float: left"}
 Árpád Lukács
 See me on
  * [github](https://github.com/lukacsarpad)
