@@ -1,8 +1,6 @@
 ![Arpad Lukacs](./arpi.jpg){:width="50%" style="float: left; margin-right: 3em;"}
 ## Árpád Lukács
-
-Physicist (PhD, MSc)
-
+Physicist (PhD, MSc)\
 Mathematician (MSc)
 
 ### See me on
@@ -13,6 +11,5 @@ Mathematician (MSc)
  * [InspireHEP](http://inspirehep.net/search?ln=en&p=find+au+lukacs%2Ca&of=hb&action_search=Search&sf=earliestdate&so=d)
  * [See my other website at the Wigner RCP](http://www.rmki.kfki.hu/~arpi/)
 
-### [CV](http://www.rmki.kfki.hu/~arpi/cv_eng_la.pdf)
-### [List of publications](http://www.rmki.kfki.hu/~arpi/publist_eng_la.pdf)
-
+[Curriculum Vitae](http://www.rmki.kfki.hu/~arpi/cv_eng_la.pdf)\
+[List of publications](http://www.rmki.kfki.hu/~arpi/publist_eng_la.pdf)
