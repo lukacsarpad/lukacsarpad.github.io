@@ -1,6 +1,6 @@
-![Arpad Lukacs](./arpi.jpg){:width="50%" style="float: left"}
-Árpád Lukács
-See me on
+![Arpad Lukacs](./arpi.jpg){:width="50%" style="float: left; margin-right: 3em;"}
+## Árpád Lukács
+## See me on
  * [github](https://github.com/lukacsarpad)
  * [Google Scholar](https://scholar.google.hu/citations?user=Um8vYCcAAAAJ)
  * [Web of Science](http://www.researcherid.com/rid/E-4205-2016)
