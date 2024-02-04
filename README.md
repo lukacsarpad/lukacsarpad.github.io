@@ -1,2 +1,2 @@
-# Árpád Lukács
-my web site will be here soon
+![Arpad Lukacs](./arpi.jpg){: .image-left } Árpád Lukács
+
