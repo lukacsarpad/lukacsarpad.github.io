@@ -1,4 +1,4 @@
-![Arpad Lukacs](./arpi.jpg){:width="50%" style="float: left; margin-right: 3em;"}
+![Arpad Lukacs](./arpi.jpg){:width="50%" style="float: left; margin-right: 3em; margin-bottom: 2em; margin-top: 2em;"}
 ## Árpád Lukács
 I am a Physicist (PhD, MSc) / Mathematician (MSc), interrested in solitons, field theories, and geometry, applying both numerical and analytical techniques.
 I am currently a postdoctoral researcher at [Durham University](https://www.durham.ac.uk/staff/arpad-l-lukacs/).
