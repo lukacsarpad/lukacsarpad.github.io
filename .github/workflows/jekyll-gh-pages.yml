@@ -37,30 +37,13 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-  # latex build job
-  build-tex:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-      - name: Install Dependencies
-        run: |
-          sudo apt-get update
-          xargs -a packages.txt sudo apt-get install
-      - name: latex
-        working-directory: ./test-ltx
-        run: |
-          pdflatex test.tex
-          pdflatex test.tex
-          mkdir ../_site/test-ltx
-          cp test.pdf ../_site/test-ltx/
   # Deployment job
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: [build, build-tex]
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
