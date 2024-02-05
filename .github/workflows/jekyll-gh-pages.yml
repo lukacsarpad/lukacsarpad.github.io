@@ -37,7 +37,7 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
+  # latex build job
   build-latex:
     runs-on: ubuntu-latest
     steps:
@@ -60,7 +60,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build build-latex
+    needs: |
+      build
+      build-latex
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
