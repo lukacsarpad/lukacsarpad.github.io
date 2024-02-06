@@ -3,7 +3,7 @@
 I am a Physicist (PhD, MSc) / Mathematician (MSc), interrested in solitons, field theories, and geometry, applying both numerical and analytical techniques.
 I am currently a postdoctoral researcher at [Durham University](https://www.durham.ac.uk/staff/arpad-l-lukacs/).
 
-[Curriculum Vitae](http://www.rmki.kfki.hu/~arpi/cv_eng_la.pdf)\
+[Curriculum Vitae](http://www.rmki.kfki.hu/~arpi/cv_eng_la.pdf), [1-page CV](http://www.rmki.kfki.hu/~arpi/cv1_eng_la.pdf)\
 [List of publications](http://www.rmki.kfki.hu/~arpi/publist_eng_la.pdf)
 
 You can also see me on\
