@@ -7,7 +7,7 @@ I am currently a postdoctoral researcher at [Durham University](https://www.durh
 [List of publications](http://lukacsarpad.github.io/cv-and-publist/publist-allukacs.pdf)
 
 You can also see me on\
-&nbsp; [github](https://github.com/lukacsarpad)\
+&nbsp; [Github](https://github.com/lukacsarpad)\
 &nbsp; [Google Scholar](https://scholar.google.hu/citations?user=Um8vYCcAAAAJ)\
 &nbsp; [Web of Science](http://www.researcherid.com/rid/E-4205-2016)\
 &nbsp; [OrcID](https://orcid.org/0000-0002-5737-1393)\
