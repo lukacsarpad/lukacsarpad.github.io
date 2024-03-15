@@ -19,7 +19,7 @@ This page contains some notes I have written on topics in which I am interested,
 
 ## Sources, etc.
 
-For the LaTeX sources of the pdf files and supplementary material (e.g., computer algebra or numerical code) see [https://github.com/lukacsarpad/notes-and-solutions](my github repository).
+For the LaTeX sources of the pdf files and supplementary material (e.g., computer algebra or numerical code) see [my github repository](https://github.com/lukacsarpad/notes-and-solutions).
 
 ## License
 
