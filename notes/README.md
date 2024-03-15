@@ -4,5 +4,7 @@ This page contains some notes I have written on topics in which I am interested,
 
 ## Solutions
 
+* [Theodore Frankel, The geometry of Physics (Cambridge University Press, 1997)](geomphys.pdf). I also have some [notes](geomphysh.pdf) on some harder to follow derivations.
+
 ## Notes
 
