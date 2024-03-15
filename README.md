@@ -15,3 +15,7 @@ You can also see me on\
 
 See my other website at the [Wigner RCP](http://www.rmki.kfki.hu/~arpi/)
 
+---
+
+On this page: [Notes and solutions](http://lukacsarpad.github.io/notes/)
+
