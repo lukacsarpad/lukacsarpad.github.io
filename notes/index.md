@@ -1,6 +1,6 @@
 ---
 title: Notes and solutions
-description: Árpád L Lukács
+description: <a href="https://lukacsarpad.github.io/">Árpád L Lukács</a>
 ---
 # Notes and solutions
 
