@@ -3,3 +3,6 @@ description: Physicist (PhD, MSc) & Mathematician (MSc)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+url: "https://lukacsarpad.github.io"
+plugins:
+  - jekyll-sitemap
