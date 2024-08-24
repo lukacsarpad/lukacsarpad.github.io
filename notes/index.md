@@ -10,6 +10,7 @@ This page contains some notes I have written on topics in which I am interested,
 
 * [Theodore Frankel, The geometry of Physics (Cambridge University Press, 1997)](geomphys.pdf). I also have some [notes](geomphysh.pdf) on some harder to follow derivations.
 * [Roger J. Barlow, Statistics: A guide to the use of statistical methods in the physical sciences (Wiley, 1989)](barlow.pdf)
+* [Michael A. Nielsen and Isaac L. Chuang, Quantum computation and quantum information (Cambridge University Press, 2016)](nielsenchuang.pdf) (Up to chapter 5, work in progress.)
 
 ## Notes
 
